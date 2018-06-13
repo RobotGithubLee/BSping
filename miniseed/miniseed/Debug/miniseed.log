@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\visual studio 2015\project\miniseed\miniseed\main.cpp(158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio 2015\project\miniseed\miniseed\main.cpp(164): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\visual studio 2015\project\miniseed\miniseed\main.cpp(86): warning C4101: “s”: 未引用的局部变量
+e:\visual studio 2015\project\miniseed\miniseed\main.cpp(238): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\visual studio 2015\project\miniseed\miniseed\main.cpp(249): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+  miniseed.vcxproj -> E:\Visual Studio 2015\Project\miniseed\Debug\miniseed.exe
+  miniseed.vcxproj -> E:\Visual Studio 2015\Project\miniseed\Debug\miniseed.pdb (Full PDB)
