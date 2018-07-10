@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\visual studio 2015\project\bsping\bsping\main.cpp(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2015\project\bsping\bsping\main.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2015\project\bsping\bsping\main.cpp(380): warning C4305: “+=”: 从“double”到“float”截断
+  BSping.vcxproj -> E:\Visual Studio 2015\Project\BSping\Debug\BSping.exe
+  BSping.vcxproj -> E:\Visual Studio 2015\Project\BSping\Debug\BSping.pdb (Full PDB)
