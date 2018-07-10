@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(92): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(95): warning C4305: “+=”: 从“double”到“float”截断
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(102): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(102): warning C4305: “初始化”: 从“double”到“float”截断
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(103): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\visual studio 2015\project\bernstein\bernstein\main.cpp(103): warning C4305: “初始化”: 从“double”到“float”截断
+  Bernstein.vcxproj -> E:\Visual Studio 2015\Project\Bernstein\Debug\Bernstein.exe
+  Bernstein.vcxproj -> E:\Visual Studio 2015\Project\Bernstein\Debug\Bernstein.pdb (Full PDB)
